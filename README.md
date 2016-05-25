@@ -47,8 +47,12 @@ ACTのプラグインタブ「FZ.WRC」に移動します。
 Copyright (c) <2016> (FairyZeta)  
 All rights reserved.  
   
-ソースコードの流用やプラグイン改造版の作成など、製作者への連絡は不要で自由に使用して頂いてかまいません。  
+ソースコードの流用やプラグイン改造版の作成など、製作者への連絡は一切不要で自由に使用して頂いてかまいません。  
 リリース物をそのまま再配布だけは、一言（１行でも）連絡を頂けると助かります。
 ####≪連絡先≫
 mail to <info@fairyzeta.com>  
 twitter <https://twitter.com/FairyZeta>
+####≪動作確認した環境≫
+CPU: Core i7 5930K (3.5G)  
+MEM: DDR4 32G  
+GPU: nVidia GTX980 *2 (SLI) 4K+FHD  
